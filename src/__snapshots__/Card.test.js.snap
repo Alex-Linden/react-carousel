@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div>
+  <div
+    class="Card"
+  >
+    <h4
+      class="Card-title"
+    >
+      smoke and mirrors
+    </h4>
+    <img
+      alt="smoke and mirrors"
+      class="Card-image"
+      src="test.com"
+    />
+    <small
+      class="Card-small"
+    >
+      Image 
+      1
+       of 
+      4
+      .
+    </small>
+  </div>
+</div>
+`;
